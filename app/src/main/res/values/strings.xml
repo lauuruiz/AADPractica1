@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AADPractica1</string>
+
+    <string name="guardar_contactos">Guardar contactos</string>
+    <string name="donde_guardar">¿Donde quiere guardar los contactos?</string>
+    <string name="interno">Interno</string>
+    <string name="privado">Privado</string>
+    <string name="nombre_archivo">Nombre del archivo sin extensión</string>
+    <string name="guardar">Guardar</string>
+    <string name="historico">Historico</string>
+
+    <string name="historial">Historial</string>
+    <string name="buscar">Buscar</string>
+
+    <string name="leer_contactos">Leer contactos</string>
+    <string name="pulsa_historial">Pulsa para ver el historial</string>
+    <string name="archivo_buscar">Escriba el nombre del archivo a leer sin extensión</string>
+    <string name="leer">Leer</string>
+    <string name="buscarContacto">¿A quien quiere buscar?</string>
+    <string name="contacto_buscar">Escriba el nombre del contacto</string>
+    <string name="que_buscar">Escriba el nombre del contacto a buscar</string>
+
+
+</resources>
